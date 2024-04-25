@@ -73,3 +73,6 @@ Initiate promotions and incentives to drive revenue at the year's start. Clear h
 
 ## Future Possibilities
 Explore advanced features of fbprophet, include additional external variables, and adapt the model for real-time forecasting. Continuous improvement and adaptation will enhance inventory management accuracy and responsiveness in the long term.
+
+credit : Intellipaat dataset
+code : Rakhi Tulaskar
